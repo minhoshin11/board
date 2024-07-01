@@ -1,7 +1,7 @@
 import { MongoClient } from "mongodb";
 
 const url: string =
-  "mongodb+srv://admin:a153153@cluster0.0skskb7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+  "mongodb+srv://tlsalsgh777:Aa1257601!@next-board.hwi2fnp.mongodb.net/?retryWrites=true&w=majority&appName=next-board";
 const options = {}; // useNewUrlParser 생략
 
 let connectDB: Promise<MongoClient>;
